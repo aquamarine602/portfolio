@@ -6,7 +6,7 @@ import static java.lang.System.out;
 public class Chinese_zodiac {
 
 	public static void main(String[] args) {
-Scanner input = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		
 		// variable for if while loop is true
 		int keep_going = 1;
